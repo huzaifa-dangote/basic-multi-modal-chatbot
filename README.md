@@ -1,6 +1,6 @@
 # Multi-Modal AI Chatbot for Car Rental Company
 
-A sophisticated multi-modal AI chatbot built for Exclusive Car Rentals (https://www.ecr.ng) that helps customers find the best vehicle for their needs and guides them through the booking process. The chatbot features text chat, voice responses, and vehicle image generation.
+A multi-modal AI chatbot built for Exclusive Car Rentals (https://www.ecr.ng) that helps customers find the best vehicle for their needs and guides them through the booking process. The chatbot features text chat, voice responses, and vehicle image generation.
 
 ## Features
 
